@@ -1,0 +1,58 @@
+# ApexPlanet Data Analytics Internship - Final Report
+
+## Executive Summary
+
+As part of the ApexPlanet Data Analytics Internship, I completed multiple hands-on tasks involving data cleaning, SQL analysis, dashboard creation, statistical analysis, customer segmentation, and predictive modeling using the Superstore dataset.
+
+## Task Overview
+
+### Task 1 - Data Cleaning
+
+* Cleaned and prepared the dataset for analysis.
+* Handled missing values and checked data quality.
+
+### Task 2 - SQL Analysis
+
+* Performed SQL queries to analyze customer, sales, and product data.
+* Generated insights using filtering, grouping, and aggregation functions.
+
+### Task 3 - Dashboard Development
+
+* Created visual dashboards to analyze sales and profit trends.
+* Used charts and KPIs for business reporting.
+
+### Task 4 - Advanced Analytics
+
+* Performed statistical analysis.
+* Conducted hypothesis testing (T-Test).
+* Applied K-Means clustering for customer segmentation.
+* Built a Linear Regression model for sales prediction.
+
+## Key Insights
+
+1. Technology products generated the highest sales.
+2. Certain product categories contributed more profit than others.
+3. Customers could be segmented into different groups based on purchasing behavior.
+4. Statistical analysis revealed meaningful business patterns.
+5. Predictive modeling helped estimate future sales trends.
+
+## Business Recommendations
+
+1. Focus marketing efforts on high-performing product categories.
+2. Improve strategies for low-profit products.
+3. Target customer segments with personalized offers.
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* SQL
+* Tableau
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## Conclusion
+
+This internship provided practical experience in data analytics, visualization, SQL, statistics, and machine learning. The project improved my ability to derive insights from data and present findings effectively.
